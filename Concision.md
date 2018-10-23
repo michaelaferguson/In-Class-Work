@@ -1,0 +1,4 @@
+## Orignal 
+2. Every country educates its children differently. Each country can improve its educational system. Studying other countries can help improve countries’ educational systems. Individual states control their schools in the United States. The French Ministry of National Education, Advanced Instruction, and Research, a centralized government institution, controls schools in France. Schools in the vicinity of these nations differ greatly in light of the fact of those countries' differences.
+## Revised 
+Although every country educates its children differently, they can improve their educational system by styuding others. The United States's schools are controlled by each state, while the French centralized government controls their schools; other schools in the area differ greatly due to these differences. 
