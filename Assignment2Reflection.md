@@ -1,0 +1,3 @@
+## Assignment Two Reflection
+This was a great assignment! I learned a lot not only about the operatings of WordPress and the connectability to other media sites, but about my writing style as well. I have tons and tons of room for improvement in that area, but our practice with using clear and concise language helped me in writing my blog posts. In general, I tend to over explain things and it can be hard to dispose of what is not actually needed. So it was a challenge for me to utilize that in the blog, and I wll continue to work on it.
+I loved being able to write for my family's company and the flexibility of the subject of the posts, but I maybe should have narrowed my focus a little more for the assignment. 
